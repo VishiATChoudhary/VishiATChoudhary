@@ -53,7 +53,7 @@
 </g>
 <text class="l" style="animation-delay:0.30s" x="488" y="48"><tspan class="key">vishi@github</tspan> <tspan class="dim">───────────────────────────────────────────────</tspan></text>
 <text class="l" style="animation-delay:0.37s" x="488" y="68"><tspan class="dim">. </tspan><tspan class="key">OS</tspan>:<tspan class="dim"> ................ </tspan><tspan class="val">macOS, Linux (when the GPUs are free)</tspan></text>
-<text class="l" style="animation-delay:0.44s" x="488" y="88"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dim"> ........................ </tspan><tspan class="val">5 years, 1 months, 0 days</tspan></text>
+<text class="l" style="animation-delay:0.44s" x="488" y="88"><tspan class="dim">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dim"> ........................ </tspan><tspan class="val">5 years, 1 months, 1 days</tspan></text>
 <text class="l" style="animation-delay:0.51s" x="488" y="108"><tspan class="dim">. </tspan><tspan class="key">Host</tspan>:<tspan class="dim"> ..................... </tspan><tspan class="val">Technical University of Munich</tspan></text>
 <text class="l" style="animation-delay:0.58s" x="488" y="128"><tspan class="dim">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dim"> ......................... </tspan><tspan class="val">Computer Science student</tspan></text>
 <text class="l" style="animation-delay:0.65s" x="488" y="148"><tspan class="dim">. </tspan><tspan class="key">Shell</tspan>:<tspan class="dim"> ......................... </tspan><tspan class="val">zsh + Claude Code + Codex</tspan></text>
@@ -67,8 +67,8 @@
 <text class="l" style="animation-delay:1.49s" x="488" y="388"><tspan class="dim">- </tspan><tspan class="head">GitHub Stats</tspan> <tspan class="dim">─────────────────────────────────────────────</tspan></text>
 <text class="l" style="animation-delay:1.56s" x="488" y="408"><tspan class="dim">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dim"> ............................... </tspan><tspan class="val">55 {Contributed: 5}</tspan></text>
 <text class="l" style="animation-delay:1.63s" x="488" y="428"><tspan class="dim">. </tspan><tspan class="key">Stars</tspan>:<tspan class="dim"> ................................................ </tspan><tspan class="val">27</tspan></text>
-<text class="l" style="animation-delay:1.70s" x="488" y="448"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ........................................... </tspan><tspan class="val">6,548</tspan></text>
+<text class="l" style="animation-delay:1.70s" x="488" y="448"><tspan class="dim">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dim"> ........................................... </tspan><tspan class="val">6,559</tspan></text>
 <text class="l" style="animation-delay:1.77s" x="488" y="468"><tspan class="dim">. </tspan><tspan class="key">Followers</tspan>:<tspan class="dim"> ............................................ </tspan><tspan class="val">21</tspan></text>
-<text class="l" style="animation-delay:1.84s" x="488" y="488"><tspan class="dim">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dim"> ......... </tspan><tspan class="val">856,999</tspan> ( <tspan class="add">1,053,010++</tspan>, <tspan class="del">196,011--</tspan> )</text>
+<text class="l" style="animation-delay:1.84s" x="488" y="488"><tspan class="dim">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="dim"> ......... </tspan><tspan class="val">861,601</tspan> ( <tspan class="add">1,058,133++</tspan>, <tspan class="del">196,532--</tspan> )</text>
 <text class="l" style="animation-delay:1.91s" x="488" y="508"><tspan class="key">vishi</tspan><tspan class="dim">@github:~$ </tspan><tspan class="cur">▍</tspan></text>
 </svg>
